@@ -1,8 +1,8 @@
-package com.nitokrisalpha.actions;
+package com.nitokrisalpha.create;
 
 /*
   单例模式
-     单例设计
+     单例设计，限制内存中只允许创建一个类对象
  */
 public class Singleton {
     //未使用单例模式的任务管理器类
